@@ -2,7 +2,7 @@
 
 <img src="Spotify Extension/icon.png" alt="Spotify Launcher Logo" width="100"/>
 
-# 🎵 Spotify Launcher
+# 🎵 Spotify Launcher CLI
 
 ### Open any song on Spotify instantly from your Chrome browser
 
