@@ -1,0 +1,1 @@
+# Spotify-Launcher-Extension
