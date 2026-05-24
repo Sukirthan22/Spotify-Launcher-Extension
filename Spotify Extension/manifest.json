@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Spotify Quick Play CLI Extension",
+  "version": "1.0",
+  "description": "Type a song name and open and launch it in Spotify right away",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
