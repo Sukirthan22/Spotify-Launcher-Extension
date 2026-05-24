@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icon128.png" alt="Spotify Launcher Logo" width="100"/>
+<img src="icon.png" alt="Spotify Launcher Logo" width="100"/>
 
 # 🎵 Spotify Launcher
 
