@@ -54,3 +54,5 @@ chrome://extensions
 # 4. Click Load Unpacked
 
 # 5. Select the cloned folder
+
+<img width="465" height="273" alt="image" src="https://github.com/user-attachments/assets/a73b189a-def6-417f-81e7-dd46566d9adb" />
