@@ -6,8 +6,7 @@
 
 ### Open any song on Spotify instantly from your Chrome browser
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID?color=1DB954&label=Chrome%20Web%20Store&logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore)
-[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/YOUR_EXTENSION_ID?color=1DB954&label=Users&logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-1DB954.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-1DB954.svg)](CONTRIBUTING.md)
 [![Made With Love](https://img.shields.io/badge/Made%20with-❤️-1DB954)](https://github.com/yourusername)
